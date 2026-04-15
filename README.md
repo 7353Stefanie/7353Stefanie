@@ -4,7 +4,7 @@ Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und We
 
 ## Mein Tech Stack
 
-**Frontend & Mobile:** React Native, Expo, JavaScript, TypeScript, HTML, CSS  
+**Frontend & Mobile:** Angular, React Native, Expo, JavaScript, TypeScript, HTML, CSS  
 **Backend:** Java, Spring Boot, PHP  
 **Tools & DevOps:** Git, Docker, GitHub Actions, EAS Build & Update  
 **Sonstiges:** REST APIs, i18n/Lokalisierung, RevenueCat (In-App-Käufe)
@@ -59,11 +59,11 @@ Ein Webprojekt bestehend aus einem React-Frontend und einem Java-Backend mit Spr
 ---
 
 ### 📋 AuftragsService
-**Service-Anwendung in TypeScript**
+**Auftragsverwaltung mit Angular & TypeScript**
 
-Ein Service zur Auftragsverwaltung, umgesetzt in TypeScript.
+Ein Service zur Auftragsverwaltung mit einem Angular-Frontend. Entstanden im Rahmen meiner beruflichen Tätigkeit als Entwicklerin.
 
-**Tech:** TypeScript
+**Tech:** Angular · TypeScript
 
 ---
 
@@ -76,18 +76,3 @@ Meine Repositories sind privat. Wenn Sie im Rahmen eines Bewerbungsprozesses Ein
 
 Ich schalte Ihnen zeitnah einen Lesezugang frei.
 
-
-<!--
-**7353Stefanie/7353Stefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
