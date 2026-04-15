@@ -1,4 +1,4 @@
-﻿# Hallo, ich bin Stefanie 👋
+﻿# Hallo, ich bin Stefanie 
 
 Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und Web-Entwicklung. Ich arbeite gerne mit modernen Technologien über den gesamten Stack hinweg — vom React-Native-Frontend bis zum Spring-Boot-Backend, inklusive KI-gestützter Bildgenerierung.
 
@@ -14,7 +14,7 @@ Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und We
 
 ## Projekte
 
-### 🎨 Coloring Pictures - Ausmalbilder
+###  Coloring Pictures - Ausmalbilder
 **Mobile Ausmal-App für iOS & Android** · [Im App Store ansehen](https://apps.apple.com/de/app/coloring-pictures/id6756795786)
 
 Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese digital ausmalen können. Die fertigen Werke lassen sich speichern und drucken. Die Ausmalbilder werden mit einer **eigenen KI-Pipeline** generiert (→ siehe [KI-Bildgenerierung](#-ki-bildgenerierung-für-coloring-pictures)).
@@ -46,7 +46,7 @@ Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese dig
 
 ---
 
-### 🤖 KI-Bildgenerierung für Coloring Pictures
+###  KI-Bildgenerierung für Coloring Pictures
 **Serverless Image-Generation-Pipeline auf Modal**
 
 Eine eigenständige KI-Pipeline, die automatisiert Ausmalbilder für die Coloring-Pictures-App erzeugt. Basierend auf **Stable Diffusion 2.1** mit **kategoriespezifischen LoRA-Weights** — jede Tierkategorie (z. B. Hunde, Katzen, Pferde) wurde individuell trainiert, um stilistisch passende Ausmalvorlagen zu generieren.
@@ -56,7 +56,7 @@ Eine eigenständige KI-Pipeline, die automatisiert Ausmalbilder für die Colorin
 </p>
 
 **Highlights:**
-- 🧠 **Stable Diffusion 2.1** als Base-Modell mit **LoRA Fine-Tuning**
+- **Stable Diffusion 2.1** als Base-Modell mit **LoRA Fine-Tuning**
 - Eigene **LoRA-Weights pro Tierkategorie** für konsistenten Stil
 - Serverless GPU-Infrastruktur auf **Modal** (~9 Sek. pro Bild)
 - Mehrere Funktionen: `generate`, `get_image`, `random_image_url`, `run_generation`
@@ -67,7 +67,7 @@ Eine eigenständige KI-Pipeline, die automatisiert Ausmalbilder für die Colorin
 
 ---
 
-### 🌐 Website Backend
+###  Website Backend
 **Fullstack-Webprojekt mit React & Spring Boot**
 
 Ein Webprojekt bestehend aus einem React-Frontend und einem Java-Backend mit Spring Boot. Containerisiert mit Docker für einfaches Deployment.
@@ -81,7 +81,7 @@ Ein Webprojekt bestehend aus einem React-Frontend und einem Java-Backend mit Spr
 
 ---
 
-### 📋 AuftragsService
+###  AuftragsService
 **Fullstack-Demo: Auftragsverwaltung mit Angular & Java**
 
 Ein Beispielprojekt zur Demonstration meiner Fullstack-Kenntnisse. Bildet einen Service zur Prüfauftragsverwaltung ab — mit Angular-Frontend, Java-Backend und Docker-Container inkl. Datenbank.
@@ -101,8 +101,8 @@ Ein Beispielprojekt zur Demonstration meiner Fullstack-Kenntnisse. Bildet einen 
 
 Meine Repositories sind privat. Wenn Sie im Rahmen eines Bewerbungsprozesses Einblick in den Quellcode erhalten möchten, kontaktieren Sie mich gerne:
 
-📧 [E-Mail](mailto: coloringpicturesforkids@gmail.com )  
-💼 [LinkedIn](https://linkedin.com/in/stefanie-b-90113a217/ )
+[E-Mail](mailto: coloringpicturesforkids@gmail.com )  
+[LinkedIn](https://linkedin.com/in/stefanie-b-90113a217/ )
 
 Ich schalte Ihnen zeitnah einen Lesezugang frei.
 
