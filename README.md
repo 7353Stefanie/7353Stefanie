@@ -32,7 +32,7 @@ Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese dig
 </p>
 
 **Highlights:**
-- 📱 Veröffentlicht im **Apple App Store**
+- Veröffentlicht im **Apple App Store**
 - Cross-Platform App mit **React Native 0.81** und **Expo SDK 54**
 - **KI-generierte Ausmalbilder** über eigene Stable-Diffusion-Pipeline (siehe unten)
 - **Mehrsprachig** (Deutsch, Englisch u. a.) via i18next + expo-localization
