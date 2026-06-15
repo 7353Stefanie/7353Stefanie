@@ -19,16 +19,7 @@ Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und We
 
 Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese digital ausmalen können. Die fertigen Werke lassen sich speichern und drucken.
 
-<p align="center">
-  <img src="images/Übersicht.jpeg" alt="Übersicht" width="180"/>
-  <img src="images/anmalen.jpg" alt="Ausmalen" width="180"/>
-  <img src="images/drucken.jpeg" alt="Drucken" width="180"/>
-  <img src="images/merken.jpeg" alt="Merken" width="180"/>
-</p>
-<p align="center">
-  <img src="images/merken2.jpg" alt="Merken 2" width="180"/>
-  <img src="images/premium.png" alt="Premium" width="180"/>
- 
+
 </p>
 
 **Highlights:**
