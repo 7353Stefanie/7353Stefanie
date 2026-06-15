@@ -1,12 +1,12 @@
 ﻿# Hallo, ich bin Stefanie 
 
-Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und Web-Entwicklung. Ich arbeite gerne mit modernen Technologien über den gesamten Stack hinweg — vom React-Native-Frontend bis zum Spring-Boot-Backend, inklusive KI-gestützter Bildgenerierung.
+Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und Web-Entwicklung. Ich arbeite gerne mit modernen Technologien über den gesamten Stack hinweg — vom React-Native-Frontend bis zum Spring-Boot-Backend. 
 
 ## Mein Tech Stack
 
 **Frontend & Mobile:** Angular, React Native, Expo, JavaScript, TypeScript, HTML, CSS  
 **Backend:** Java, Spring Boot, PHP  
-**KI & ML:** Stable Diffusion 2.1, LoRA Fine-Tuning, Modal (Serverless GPU)  
+**ML:**  Modal (Serverless GPU)  
 **Tools & DevOps:** Git, Docker, GitHub Actions, EAS Build & Update  
 **Sonstiges:** REST APIs, i18n/Lokalisierung, RevenueCat (In-App-Käufe)
 
