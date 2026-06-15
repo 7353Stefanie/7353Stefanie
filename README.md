@@ -17,7 +17,7 @@ Ich bin Softwareentwicklerin mit Erfahrung in der mobilen App-Entwicklung und We
 ###  Coloring Pictures - Ausmalbilder
 **Mobile Ausmal-App für iOS & Android** · [Im App Store ansehen](https://apps.apple.com/de/app/coloring-pictures/id6756795786)
 
-Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese digital ausmalen können. Die fertigen Werke lassen sich speichern und drucken. Die Ausmalbilder werden mit einer **eigenen KI-Pipeline** generiert (→ siehe [KI-Bildgenerierung](#-ki-bildgenerierung-für-coloring-pictures)).
+Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese digital ausmalen können. Die fertigen Werke lassen sich speichern und drucken.
 
 <p align="center">
   <img src="images/Übersicht.jpeg" alt="Übersicht" width="180"/>
@@ -28,13 +28,13 @@ Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese dig
 <p align="center">
   <img src="images/merken2.jpg" alt="Merken 2" width="180"/>
   <img src="images/premium.png" alt="Premium" width="180"/>
-  <img src="images/KI-generieteres-Bild.jpg" alt="KI-generiertes Bild" width="180"/>
+ 
 </p>
 
 **Highlights:**
 - Veröffentlicht im **Apple App Store**
 - Cross-Platform App mit **React Native 0.81** und **Expo SDK 54**
-- **KI-generierte Ausmalbilder** über eigene Stable-Diffusion-Pipeline (siehe unten)
+- **KI-generierte Ausmalbilder** 
 - **Mehrsprachig** (Deutsch, Englisch u. a.) via i18next + expo-localization
 - **In-App-Käufe** und Abo-Modell über RevenueCat
 - SVG-Rendering mit Touch- und Swipe-Gesten
@@ -46,24 +46,14 @@ Eine App, in der Nutzer aus einer Sammlung von SVG-Bildern wählen und diese dig
 
 ---
 
-###  KI-Bildgenerierung für Coloring Pictures
-**Serverless Image-Generation-Pipeline auf Modal**
-
-Eine eigenständige KI-Pipeline, die automatisiert Ausmalbilder für die Coloring-Pictures-App erzeugt. Basierend auf **Stable Diffusion 2.1** mit **kategoriespezifischen LoRA-Weights** — jede Tierkategorie (z. B. Hunde, Katzen, Pferde) wurde individuell trainiert, um stilistisch passende Ausmalvorlagen zu generieren.
-
-<p align="center">
-  <img src="images/run_generation.png" alt="Modal Dashboard – KI-Bildgenerierung" width="700"/>
-</p>
-
 **Highlights:**
-- **Stable Diffusion 2.1** als Base-Modell mit **LoRA Fine-Tuning**
-- Eigene **LoRA-Weights pro Tierkategorie** für konsistenten Stil
+
 - Serverless GPU-Infrastruktur auf **Modal** (~9 Sek. pro Bild)
-- Mehrere Funktionen: `generate`, `get_image`, `random_image_url`, `run_generation`
+- Mehrere Funktionen: `get_image`, `random_image_url`, 
 - Automatisierte Batch-Generierung neuer Ausmalbilder
 - Bilder werden als SVG-taugliche Vorlagen für die App aufbereitet
 
-**Tech:** Python · Stable Diffusion 2.1 · LoRA · Modal · Serverless GPU
+**Tech:** Python · Modal · Serverless GPU
 
 ---
 
