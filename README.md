@@ -60,21 +60,6 @@ Ein Webprojekt bestehend aus einem React-Frontend und einem Java-Backend mit Spr
 
 **Tech:** Java · Spring Boot · React · Docker · Maven
 
----
-
-###  AuftragsService
-**Fullstack-Demo: Auftragsverwaltung mit Angular & Java**
-
-Ein Beispielprojekt zur Demonstration meiner Fullstack-Kenntnisse. Bildet einen Service zur Prüfauftragsverwaltung ab — mit Angular-Frontend, Java-Backend und Docker-Container inkl. Datenbank.
-
-**Highlights:**
-- **Angular**-Frontend mit TypeScript (eigener Ordner `AuftragsServiceFrontend`)
-- **Java**-Backend mit REST API (`AuftragsServiceBackend`)
-- **SQL-Datenbank** im Docker-Container
-- Saubere Trennung von Frontend und Backend in einem Monorepo
-- Per **Docker** direkt startbar
-
-**Tech:** Angular · TypeScript · Java · SQL · Docker · CSS · HTML
 
 ---
 
